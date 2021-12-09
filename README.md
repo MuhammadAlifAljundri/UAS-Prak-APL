@@ -29,10 +29,10 @@ Mohd. Alif Al Jundri | 1908107010071
   2. Compile The Code
     Go to the directory where the file is stored in cmd/terminal and run the following command:
     
-        $ javac Airport.java
+          $ javac Airport.java
          
    3. Run the program!
    
-          $ java Lumna
+          $ java Airport
   
 
