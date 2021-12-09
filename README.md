@@ -16,6 +16,7 @@ Mohd. Alif Al Jundri | 1908107010071
        
  2. Design Pattern
     > Strategy Pattern
+    
       Design pattern ini diimplementasikan ke Travel dan Ticket
       
     > Adapter Pattern      
