@@ -21,3 +21,7 @@ Mohd. Alif Al Jundri | 1908107010071
     > Adapter Pattern      
       Design pattern ini diimplementasikan ke Schedule    
        
+#RUN
+
+    $ git clone https://github.com/MuhammadAlifAljundri/UAS-Prak-APL.git
+
