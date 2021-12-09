@@ -23,13 +23,16 @@ Mohd. Alif Al Jundri | 1908107010071
        
 # RUN
   1. Clone Repository  
-  $ git clone https://github.com/MuhammadAlifAljundri/UAS-Prak-APL.git
+  
+    $ git clone https://github.com/MuhammadAlifAljundri/UAS-Prak-APL.git
   
   2.Compile The Code
     Go to the directory where the file is stored in cmd/terminal and run the following command:
-       $ javac Airport.java
+    
+      $ javac Airport.java
          
    3. Run the program!
-       $ java Lumna
+   
+     $ java Lumna
   
 
